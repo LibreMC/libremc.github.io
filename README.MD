@@ -6,4 +6,3 @@ The goal for LibreMC is to provide a suite of free, open source, and high-qualit
 
 ## Why "Libre"-MC?
 - Libre, meaning *"free"* in Spanish, is also used in the software world to enhance the idea of *"freedom"* in FOSS. [https://www.gnu.org/philosophy/floss-and-foss.en.html](https://www.gnu.org/philosophy/floss-and-foss.en.html)
-- MC = Minecraft, what LibreMC targets its projects to work for.
